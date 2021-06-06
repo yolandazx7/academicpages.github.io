@@ -9,12 +9,13 @@ redirect_from:
 A PDF version of my CV can be found [here](/files/yolandaxue-cv.pdf). 
 
 {% include base_path %}
-<div align="center"> <strong> # Zhe (Yolanda) Xue </strong> </div>
+<div align="center"> <strong> Zhe (Yolanda) Xue </strong> </div>
 <div align="center"> Charles H. Dyson School of Applied Economics and Management | 366 Warren Hall, Ithaca, NY 14850 </div>
 <div align="center"> (607)699-9732 | yolandaxue827@gmail.com | yolandaxue.github.io | www.linkedin.com/in/yolandaxue </div>
-  
-Education
-======
+
+
+## Education
+
 * B.S. in Joint Mathematics-Economics, University of California, San Diego, 2013 - 2017
 * M.S. in Applied Economics and Management, Cornell University, 2017 - 2020
 * Ph.D in Applied Economics and Management, Cornell University, 2017 - 2022 (expected)
