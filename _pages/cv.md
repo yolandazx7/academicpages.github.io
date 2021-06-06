@@ -9,7 +9,10 @@ redirect_from:
 A PDF version of my CV can be found [here](/files/yolandaxue-cv.pdf). 
 
 {% include base_path %}
-
+<div align="center"> <strong> Zhe (Yolanda) Xue </strong> </div>
+<div align="center"> Charles H. Dyson School of Applied Economics and Management | 366 Warren Hall, Ithaca, NY 14850 </div>
+<div align="center"> (607)699-9732 | yolandaxue827@gmail.com | yolandaxue.github.io | www.linkedin.com/in/yolandaxue </div>
+  
 Education
 ======
 * B.S. in Joint Mathematics-Economics, University of California, San Diego, 2013 - 2017
@@ -71,8 +74,8 @@ Leadership and Services
 ======
 * Triton Community Programming Leader (2014 - 2016)
   * UCSD, Parents and Family Program
-    * Sharpened leadership, communication, and public speaking skills throughout organizing campus-wide activities involving thousands of participants from diverse background.
-    * Got promoted to Team Lead during the second year in the office.
+    * Organized and facilitated the campus-wide activities, including Family Weekend, Sibling Weekend, and Triton Day that attracted hundreds of students and their family members to participate in.
+    * Got promoted to Team Lead during the second year in the office and helped first-year team members to learn about the dynamics in the team and smoothly transit to the position.
 
 * Student Caller (2015)
   * UCSD, Telephone Outreach Program
@@ -81,7 +84,7 @@ Leadership and Services
 
 * Triton International Leader (2014)
   * UCSD, International Center
-    * Led a team to create a guidebook that introduce on- and off-campus resources and help international students to adapt to the new cultural environment
+    * Led a team to create a guidebook that introduce on- and off-campus resources and help international students to adapt to the new cultural environment.
     * Distributed the guidebook to all incoming students during the orientation by International Center.
 
 * Reviewer
