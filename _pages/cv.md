@@ -13,15 +13,14 @@ A PDF version of my CV can be found [here](/files/yolandaxue-cv.pdf).
 <div align="center"> Charles H. Dyson School of Applied Economics and Management | 366 Warren Hall, Ithaca, NY 14850 </div>
 <div align="center"> (607)699-9732 | yolandaxue827@gmail.com | yolandaxue.github.io | www.linkedin.com/in/yolandaxue </div>
 
-
 ## Education
 
 * B.S. in Joint Mathematics-Economics, University of California, San Diego, 2013 - 2017
 * M.S. in Applied Economics and Management, Cornell University, 2017 - 2020
 * Ph.D in Applied Economics and Management, Cornell University, 2017 - 2022 (expected)
 
-Research Projects
-======
+## Research Projects
+
 * Working Papers
   * A text-based measurement of innovation *(Job Market Paper)*
   * How patent litigation by Patent Assertion Entities impact invention activity *with Aija Leiponen*
@@ -30,20 +29,20 @@ Research Projects
   * Patent litigation and invention mobility in technology space: evidence from patent text data
   * Text-based Analysis in Management and Finance Research: A Survey
 
-Presentations
-======
+## Presentations
+
 * Paper Presentation, Annual Meeting of the Academy of Management (2021)
 
 * Poster Presentation, Munich Summer Institute (2021)
 
 * Paper Presentation, Cornell SC Johnson College of Business IET Brownbag (2020)
 
-Research Interests
-======
+## Research Interests
+
 Economics of Intellectual Property and Innovation, Corporate Innovation Strategy, and Digitization and Digital Platform Strategy.
 
-Research Experience
-======
+## Research Experience
+
 * Research Assistant (2016 -- 2017)
   * UCSD, Department of Economics
     * Worked as a research assistant on Dr. Onyi Lam's research paper, “Measuring Subjectivity in History Textbooks.”
@@ -54,8 +53,8 @@ Research Experience
     * Worked on evaluation and market research, and gained qualitative research skills through designing survey questions, constructing qualitative databases, and analyzing data from various online databases.
     * Wrote a 10-page proposal for a grant.
 
-Teaching Experience
-======
+## Teaching Experience
+
 * Graduate Teaching Assitant (2018 -- Present)
   * Cornell University, Dyson School of Applied Economics and Management
     * Worked as a teaching assistant for several graduate and undergraduate level courses including International Trade and Finance, Strategy, Digital Business Strategy, and Research and Methods.
@@ -71,8 +70,8 @@ Teaching Experience
     * Worked for Professor Melissa Famulari on Intermediate Microeconomics A.
     * Was chosen as one of the peer tutors and helped successfully experimented with the Peer Tutoring Lab at UCSD Department of Economics, which later turned into a long-term program funded by campus.
 
-Leadership and Services
-======
+## Leadership and Services
+
 * Triton Community Programming Leader (2014 - 2016)
   * UCSD, Parents and Family Program
     * Organized and facilitated the campus-wide activities, including Family Weekend, Sibling Weekend, and Triton Day that attracted hundreds of students and their family members to participate in.
@@ -91,8 +90,8 @@ Leadership and Services
 * Reviewer
   * Annual Meeting of the Academy of Management
 
-Skills
-======
+## Skills
+
 * Technical Skills
   * Economic Modeling
   * Data Analysis in Python, R, MATLAB, and STATA
