@@ -11,13 +11,14 @@ A PDF version of my CV can be found [here](/files/yolandaxue-cv.pdf).
 {% include base_path %}
 <div align="center"> <strong> <font size = "18pt"> Zhe (Yolanda) Xue </font> </strong> </div>
 <div align="center"> Charles H. Dyson School of Applied Economics and Management | 366 Warren Hall, Ithaca, NY 14850 </div>
-<div align="center"> (607)699-9732 | yolandaxue827@gmail.com | yolandaxue.github.io | www.linkedin.com/in/yolandaxue </div>
+<div align="center"> (607)699-9732 | zx244@cornell.edu | yolandaxue.github.io | www.linkedin.com/in/yolandaxue </div>
 
 ## Education
 
-* B.S. in Joint Mathematics-Economics, University of California, San Diego, 2013 - 2017
-* M.S. in Applied Economics and Management, Cornell University, 2017 - 2020
 * Ph.D in Applied Economics and Management, Cornell University, 2017 - 2022 (expected)
+* M.S. in Applied Economics and Management, Cornell University, 2017 - 2020
+* B.S. in Joint Mathematics-Economics, University of California, San Diego, 2013 - 2017
+
 
 ## Research Projects
 
@@ -45,13 +46,12 @@ Economics of Intellectual Property and Innovation, Corporate Innovation Strategy
 
 * Research Assistant (2016 -- 2017)
   * UCSD, Department of Economics
-    * Worked as a research assistant on Dr. Onyi Lam's research paper, “Measuring Subjectivity in History Textbooks.”
+    * Assisted on Dr. Onyi Lam's research, “A Computational Analysis of History Textbooks in Mainland China, Hong Kong and Taiwan”.
     * Collected textual data, provided insights on research focus and methods, and identified key historical events for sentiment analysis.
 
 * Research Fellow (2016)
   * UCSD Extension, Center for Research on the Regional Economy
-    * Worked on evaluation and market research, and gained qualitative research skills through designing survey questions, constructing qualitative databases, and analyzing data from various online databases.
-    * Wrote a 10-page proposal for a grant.
+    * Wrote grant proposal, worked on evaluation and market research, designed survey questions, and constructed qualitative databases.
 
 ## Teaching Experience
 
@@ -84,7 +84,7 @@ Economics of Intellectual Property and Innovation, Corporate Innovation Strategy
 
 * Triton International Leader (2014)
   * UCSD, International Center
-    * Led a team to create a guidebook that introduce on- and off-campus resources and help international students to adapt to the new cultural environment.
+    * Led a team to create a guidebook that introduces on- and off-campus resources and helps international students to adapt to the new cultural environment.
     * Distributed the guidebook to all incoming students during the orientation by International Center.
 
 * Reviewer
