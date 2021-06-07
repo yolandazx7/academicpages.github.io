@@ -8,7 +8,7 @@ share: false
 comments: false
 
 ---
-In this set of research projects, I use different measurement of patenting outcomes to examine how patent enforcement impact invention and innovation activity. One empirically examine the impact of patent enforcement by different types of entities, including Patent Assertion Entities, on invention in US patent classes using a difference-in-difference appraoch. Another explores how patent enforcement impacts the IP differentiation in technology space using natural language processing.
+In this set of research projects, I use different measurements of patenting outcomes to examine how patent enforcement impact invention and innovation activity. One empirically examine the impact of patent enforcement by different types of entities, including Patent Assertion Entities, on invention in US patent classes using a difference-in-difference approach. Another explores how patent enforcement impacts the IP differentiation in technology space using natural language processing.
 
 ## Working Paper
 
