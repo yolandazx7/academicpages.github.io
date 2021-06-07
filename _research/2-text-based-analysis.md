@@ -14,7 +14,7 @@ In this set of research projects, I use textual analysis to measure innovation, 
 
 A text-based measurement of innovation<br/>
 
-<ul>In this paper, I construct a novel measurement of innovation activity using the financial document of publicly listed firms from 2010 to 2018. This text-based measurement of innovation describes the information of innovation process, including innovation inputs, innovation throughputs, and innovaiton outputs. Such measurement is avaialable for all public-listed firms, regardless of whether they are patenting and investing in R&D (research and development). I also explores the heterogenous impact of different stage of innovation process on firm performance.</ul>
+<ul>In this paper, I construct a novel measurement of innovation activity using the financial document of publicly listed firms from 2010 to 2018. This text-based measurement of innovation describes the information of the innovation process, including innovation inputs, innovation throughputs, and innovation outputs. Such measurement is avaialable for all public-listed firms, regardless of whether they are patenting and investing in R&D (research and development). I also explore the heterogeneous impact of different stages of the innovation process on firm performance.</ul><br/>
 
 <ul>Keywords: innovation, patent, R&D, textual analysis</ul>
 
