@@ -24,7 +24,7 @@ A PDF version of my CV can be found [here](/files/yolandaxue-cv.pdf).
 
 * Working Papers
   * A text-based measurement of innovation *(Job Market Paper)*
-  * How patent litigation by Patent Assertion Entities impact invention activity *with Aija Leiponen*
+  * How does patent litigation by Patent Assertion Entities impact invention activity? *with Aija Leiponen*
 
 * Ongoing Projects
   * Patent litigation and invention mobility in technology space: evidence from patent text data
@@ -63,7 +63,7 @@ Economics of Intellectual Property and Innovation, Corporate Innovation Strategy
 * PSET Tutor (2016 - 2017)
   * UCSD, Department of Economics
     * Worked in the Peer Tutoring Lab for intermediate microeconomics course sequence. 
-    * Helped hundreds of students to understand class materials, learn how to apply modeals,  and prepares for exams.
+    * Helped hundreds of students to understand class materials, learn how to apply modeals, and prepares for exams.
 
 * Undergraduate Teaching Assistant (2016)
   * UCSD, Department of Economics
