@@ -14,7 +14,7 @@ In this set of research projects, I use different measurements of patenting outc
 
 How does patent litigation by Patent Assertion Entities impact invention activity?<br/>
 
-<ul> Aija Leiponen, <strong>Zhe Xue</strong> </ul><br/>
+<ul> Aija Leiponen, <strong>Zhe Xue</strong> </ul>
 
 <ul> I have presented this work at <a href="https://business.cornell.edu/faculty-research/themes/innovation-entrepreneurship-and-technology/" target="_top">Cornell IET</a> Brownbag Seminar in 2020 and at <a href="http://munich-summer-institute.org/program/" target="_top">Munich Summer Institute 2021</a> in the poster slam. I will present this work at the Annual Meeting of the <a href="https://aom.org/events/annual-meeting" target="_top">Academy of Management 2021</a> in the paper session "Exploring the USPTO". This paper has also been selected as a "Best Paper" and the abridged version of the paper will be included in the 2021 AOM Annual Meeting Proceedings. </ul><br/>
 
