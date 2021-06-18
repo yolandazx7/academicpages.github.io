@@ -8,7 +8,7 @@ share: false
 comments: false
 
 ---
-In this set of research projects, I use different measurements of patenting outcomes to examine how patent enforcement impacts invention and innovation activities. One empirically examines the impact of patent enforcement by different types of entities, including Patent Assertion Entities, on invention in US patent classes using difference-in-difference models. Another explores how patent enforcement impacts the value of new inventions and IP differentiation in technology space using natural language processing.
+In this set of research projects, I use different measurements of patenting outcomes to examine how patent enforcement impacts invention and innovation activities as well as innovation disclosure. One empirically examines the impact of patent enforcement by different types of entities, including Patent Assertion Entities, on invention in US patent classes using difference-in-difference models. Another explores how patent enforcement impacts firms' innovation disclosure and IP differentiation in technology space using natural language processing.
 
 ## Working Paper
 
@@ -25,4 +25,4 @@ How does patent litigation by Patent Assertion Entities impact invention activit
 
 ## Work in Progress
 
-Patent litigation and the value of new inventions: evidence from patent text data<br/>
+The effects of patent litigation on innovation disclosure: Evidence from patent text data<br/>
