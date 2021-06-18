@@ -12,11 +12,11 @@ In this set of research projects, I use textual analysis to measure innovation, 
 
 ## Working Paper
 
-A text-based measurement of innovation<br/>
+The effects of patent litigation on innovation disclosure: evidence from patent text data<br/>
 
-<ul>In this paper, I construct a novel measurement of innovation activities using the financial document of publicly listed firms from 2007 to 2018. This text-based measurement of innovation describes the information of the innovation process, including innovation inputs (R&D), innovation throughputs (patents), and innovation outputs (new or updated products and services introdued to the market). Such measurement is avaialable for all public-listed firms, regardless of whether they are patenting and investing in R&D (research and development). I also explore the heterogeneous impact of different stages of the innovation process on firm performance.</ul><br/>
+<ul>In this paper, I construct a novel measurement of innovation activities using the financial document of publicly listed firms from 2007 to 2018. This text-based measurement of innovation describes the information of the innovation process, including innovation inputs (R&D), innovation throughputs (such as patents, trademarks, and service marks), and innovation outputs (such as new or updated products and services introduced to the market). Such measurement is avaialable for all public-listed firms, regardless of whether they are patenting and investing in R&D (research and development) that are voluntarily disclosed by firms. I also explore the fundamental forces that drives firms' decision on public disclosure of innovation activities, as well as the heterogeneous impacts of different stages in the innovation process on firm performance.</ul><br/>
 
-<ul>Keywords: innovation, patent, R&D, textual analysis</ul>
+<ul>Keywords: innovation, patent, R&D, disclosure, textual analysis</ul>
 
 
 ## Work in Progress
