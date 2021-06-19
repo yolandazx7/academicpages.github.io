@@ -23,12 +23,12 @@ A PDF version of my CV can be found [here](/files/yolandaxue-cv.pdf).
 ## Research Projects
 
 * Working Papers
-  * A text-based measurement of innovation *(Job Market Paper)*
+  * A text-based analysis of innovation and disclosure *(Job Market Paper)*
   * How does patent litigation by Patent Assertion Entities impact invention activity? *with Aija Leiponen*
 
 * Ongoing Projects
-  * Patent litigation and invention mobility in technology space: evidence from patent text data
-  * Text-based Analysis in Management and Finance Research: A Survey
+  * The effects of patent litigation on innovation disclosure: Evidence from patent text data *with Aija Leiponen*
+  * Text-based analysis in innovation and management research: A survey
 
 ## Presentations
 
