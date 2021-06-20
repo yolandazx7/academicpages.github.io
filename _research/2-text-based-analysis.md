@@ -8,7 +8,7 @@ share: false
 comments: false
 
 ---
-In this set of research projects, I use textual analysis to measure innovation, examine the economic importance of innovatoin, and explore the use of textual analysis in innnovation and management research.
+In this set of research projects, I use textual analysis to measure innovation, examine the economic importance of innovation, and explore the application of textual analysis in innnovation and management research.
 
 ## Working Paper
 
