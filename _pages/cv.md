@@ -32,6 +32,8 @@ A PDF version of my CV can be found [here](/files/yolandaxue-cv.pdf).
 
 ## Presentations
 
+* Paper Presentation, European Policy for Intellectual Property Conference (2021)
+
 * Paper Presentation, Annual Meeting of the Academy of Management (2021)
 
 * Poster Presentation, Munich Summer Institute (2021)
